@@ -1,4 +1,6 @@
-# Data Scientist
+# Stephen Goosen
+
+## Data Scientist
 
 ### Education
 Charles Darwin Univeristy: Bachelor of Science, Psych.
