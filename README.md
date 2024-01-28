@@ -1,5 +1,5 @@
 # Stephen Goosen
-
+![Book logo](logo)
 ## Data Scientist
 
 ### Education
