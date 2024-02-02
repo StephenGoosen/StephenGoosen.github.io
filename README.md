@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Data Scientist | Stephen Goosen
+# Stephen Goosen
 ---
 
 ## Education
