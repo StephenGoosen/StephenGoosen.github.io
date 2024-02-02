@@ -1,24 +1,25 @@
-# Data Scientist
 ---
+layout: default
+title: Data Scientist | Stephen Goosen
+---
+
 ## Education
-Charles Darwin Univeristy: Bachelor of Science, Psych.
+- Charles Darwin University: Bachelor of Science, Psych.
+- Edith Cowan University: Master of Data Science
 
-Edith Cowan University: Master of Data Science
+## GitHub Projects
 
----
+### [Dog-or-not: Image Classification](https://github.com/StephenGoosen/dog-or-not)
+This project involves the implementation of a binary image classification model using PyTorch. It distinguishes between images containing dogs and those that do not. The end-to-end project follows the machine learning pipeline, from data collection and preprocessing to model design, training, and evaluation. Which demonstrates an understanding of data augmentation, class imbalance handling, model evaluation metrics, and GPU utilization. The code is modular and reusable, and can easily be adapted for other datasets or similar image classification problems. The included inference script and app showcase the model's practical use (Example below).
 
-## Github Projects
-### [Image Classification:](https://github.com/StephenGoosen/dog-or-not)
-Dog-or-not. This project involved the implementation of a binary image classification model using PyTorch. The model was trained to distinguish between images containing dogs and those that do not. The project follows the end-to-end aspects of the machine learning pipeline, including data preprocessing, model architecture design, training, and evaluation. The project demonstrate an understanding of data augmentation, class imbalance handling, model evaluation metrics, and GPU utlization. Additionally, it contains modular and reusable code that can be adapted to other datasets or similar image classification problems. The included inference script and inference app demonstrates the model's 'practical' use (Example below).
+![Example](/assets/img/Example.png)
 
-<div style="text-align: center;">
-    <img width="33%" src="/assets/img/Example.png">
-</div>
+### [Stonks: Time Series Forecasting](https://github.com/StephenGoosen/Stonks)
+Django WebDev project that utilizes Yahoo Finance's yfinance API for stock price predictions.
 
-#### [Time Series Forecasting: Stock Price Predictions](https://github.com/StephenGoosen/Stonks)
-Django WebDev project. Utilizes Yahoo Finances yfinance API. 
-
-#### [Reinforcement Learning: Poker AI](https://github.com/StephenGoosen/RL_poker)
+### [RL_poker: Reinforcement Learning Poker AI](https://github.com/StephenGoosen/RL_poker)
 Poker bot made with Deep Reinforcement Learning Algorithms for imperfect-information games.
+
+
 
 
