@@ -1,4 +1,4 @@
-# Stephen Goosen
+Stephen Goosen
 
 # Data Scientist
 
