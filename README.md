@@ -16,4 +16,9 @@ Dog-or-not. This project involved the implementation of a binary image classific
 </div>
 
 #### [Time Series Forecasting: Stock Price Predictions](https://github.com/StephenGoosen/Stonks)
-Django WebDev project. 
+Django WebDev project. Utilizes Yahoo Finances yfinance API. 
+
+#### [Reinforcement Learning: Poker AI](https://github.com/StephenGoosen/RL_poker)
+Poker bot made with Deep Reinforcement Learning Algorithms for imperfect-information games.
+
+
