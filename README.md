@@ -1,4 +1,4 @@
-# Stephen Goosen | Data Scientist
+# Data Scientist
 ---
 
 ## Education
