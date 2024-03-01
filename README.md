@@ -21,7 +21,7 @@ Django WebDev project that utilizes Yahoo Finance's yfinance API for stock price
 
 ### [RL_poker: Reinforcement Learning Poker AI](https://github.com/StephenGoosen/RL_poker)
 Poker bot made with Deep Reinforcement Learning Algorithms for imperfect-information games. IN PROGRESS.
-
+![Example](/assets/img/poker.png)
 
 
 
