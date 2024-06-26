@@ -25,5 +25,7 @@ Poker game made with pygame/blender. Poker bot made with Deep Reinforcement Lear
 ![Example](/assets/img/poker.png)
 
 
+[Twitter Analysis](twitteranalysis.html)
+
 
 
