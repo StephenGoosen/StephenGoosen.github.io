@@ -12,7 +12,7 @@ Extension of a University project on a real-world dataset. Written in R, this pr
 
 ![Confusion_Matrix](/assets/img/confusion_matrices.png)
 
-### [Natural Language Processing: Sentiment Analysis](/assets/files/twitter.html)
+### [Natural Language Processing: Sentiment Analysis](/assets/files/twitter.pdf)
 My postgraduate self-directed research project. Data was collected from both twitter and facebook on vaccine-related posts. NLP tools were used to predict the vaccine-stance of the posts that could then indicate public responses to different public health messaging strategies. A combined sentiment analysis and topic modelling approach was used to improve model training and predictions on limited available data.
 
 ### [Computer Vision: Object Detection](/assets/files/computer_vision.pdf)
