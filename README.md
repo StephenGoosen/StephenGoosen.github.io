@@ -18,7 +18,7 @@ My postgraduate self-directed research project. Data was collected from both twi
 ### [Computer Vision: Object Detection](/assets/files/computer_vision.pdf)
 Developed Python-based solutions using PyTorch models for accurate detection of weed and non-weed objects. Collaborated on project planning, data collection, reporting, and presentation. Lead the model building and evaluation to ensure ideal model comparisons for a robust industry-ready weed detection system.
 
-![Object Detection](/assets/img/computer_vision.jpg))
+![Object Detection](/assets/img/computer_vision.jpg)
 
 ### [Hashcast: Time Series Forecasting](https://github.com/StephenGoosen/Stonks)
 Django WebDev project that utilizes Yahoo Finance's yfinance API for stock price predictions. The project has two components: A stock forecast generation tool, that generates forecasts for selected stocks over specified time periods. An education section on time series forecasting in general, as well as a tutorial on how to get the most out of the generation tool.
