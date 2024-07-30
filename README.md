@@ -17,10 +17,24 @@ I'm actively engaged with the latest developments in data science, software deve
 ## Skills
 
 ### Programming Tools
-{% include programming_tools.md %}
+
+| Skill | Level |
+| ----- | ----- |
+| Python | Intermediate |
+| PyTorch | Intermediate |
+| R | Intermediate |
+| SQL | Intermediate |
+| CSS | Beginner |
+| JavaScript | Beginner |
 
 ### Data Tools
-{% include data_tools.md %}
+
+| Skill | Level |
+| ----- | ----- |
+| Power BI | Intermediate |
+| Excel | Intermediate |
+| Pandas | Intermediate |
+| Spark | Beginner |
 
 ---
 
