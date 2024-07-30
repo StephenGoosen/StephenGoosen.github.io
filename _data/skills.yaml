@@ -1,0 +1,23 @@
+programming_tools:
+ - title: Python
+   level: Intermediate
+ - title: PyTorch
+   level: Intermediate
+ - title: R
+   level: Intermediate
+ - title: SQL
+   level: Intermediate
+ - title: CSS
+   level: Beginner
+ - title: JavaScript
+   level: Beginner
+
+data_tools:
+ - title: Power BI
+   level: Intermediate
+ - title: Excel
+   level: Intermediate
+ - title: Pandas
+   level: Intermediate
+ - title: Spark
+   level: Beginner
