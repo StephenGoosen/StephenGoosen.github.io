@@ -37,7 +37,7 @@ Poker game made in python with pygame/blender. Poker bot made with deep reinforc
 ~IN PROGRESS~
 
 ### [Dog-or-not: Image Classification](https://github.com/StephenGoosen/dog-or-not)
-Project involves the implementation of a binary image classification model using PyTorch. It distinguishes between images containing dogs and those that do not. The end-to-end project follows the machine learning pipeline and demonstrates an understanding of data augmentation, class imbalance handling, model evaluation metrics, and GPU utilization. The code is modular and reusable, and can easily be adapted for other datasets or similar image classification problems. The included inference script and app showcase the model's practical use.
+Project involves the implementation of a binary image classification model using PyTorch. It distinguishes between images containing dogs and those that do not. The end-to-end project follows the machine learning pipeline and demonstrates an understanding of data augmentation, class imbalance handling, model evaluation metrics, and GPU utilization. The code is modular and reusable, and can easily be adapted for other datasets or similar image classification problems. The included app showcase the model's practical use. Just pip install requirements.txt and run the app.py file.
 
 ![Example](/assets/img/Example.png)
 
