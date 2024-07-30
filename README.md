@@ -1,13 +1,16 @@
 # Aspiring Data Scientist
 ---
-## About Me
 Hello! I'm a data science enthusiast with a unique background in Psychological Science, which I transitioned from in 2022. This career shift has been incredibly rewarding, allowing me to combine my passion for data analysis with my interest in understanding human behavior. I enjoy working with biostatistical and psychometric data as this is my subject matter passion, but have also worked with agricultural, energy, and network data. The shift to data science has equipped me with a greater set of skills in statistical methods.
 
 I'm actively engaged with the latest developments in data science, software development, and machine learning. I have spent a lot of my time during my studies on practical implementation experience. My goal is to continue refining my expertise and advancing toward a role as a full-stack, all-rounder data scientist, contributing to impactful projects and solving real-world problems through data-driven insights. You can contact me on stephengoosen@gmail.com if you have any questions. 
 
+---
+
 ## Education
 - Charles Darwin University: Bachelor of Science, Psych.
 - Edith Cowan University: Master of Data Science
+
+---
 
 ## Projects
 
