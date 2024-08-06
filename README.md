@@ -14,30 +14,6 @@ I'm actively engaged with the latest developments in data science, software deve
 
 ---
 
-## Skills
-
-### Programming Tools
-
-| Skill | Level |
-| ----- | ----- |
-| Python | Intermediate |
-| PyTorch | Intermediate |
-| R | Intermediate |
-| SQL | Intermediate |
-| CSS | Beginner |
-| JavaScript | Beginner |
-
-### Data Tools
-
-| Skill | Level |
-| ----- | ----- |
-| Power BI | Intermediate |
-| Excel | Intermediate |
-| Pandas | Intermediate |
-| Spark | Beginner |
-
----
-
 ## Projects
 
 ### [Cybersecurity Data Analysis and Visualization](cybersecurity.html)
