@@ -30,11 +30,11 @@ Developed Python-based solutions using PyTorch models for accurate detection of 
 
 ![Object Detection](/assets/img/computer_vision.jpg)
 
-### [Hashcast: Time Series Forecasting](https://github.com/StephenGoosen/hashcast_new)
+### [Hashcast: Time Series Forecasting](https://github.com/StephenGoosen/hashcast)
 Django WebDev project that utilizes Yahoo Finance's yfinance API for stock price predictions. The project has two components: A stock forecast generation tool, that generates forecasts for selected stocks over specified time periods. An education section on time series forecasting in general, as well as a tutorial on how to get the most out of the generation tool.
 
 ~IN PROGRESS~
-![hashcast](/assets/img/hashcast.png)
+![hashcast](/assets/img/hashcast_new.png)
 
 ### [RL_poker: Reinforcement Learning Poker AI](https://github.com/StephenGoosen/RL_poker)
 Poker game made in python with pygame/blender. Poker bot made with deep reinforcement learning algorithms for imperfect-information games. 
