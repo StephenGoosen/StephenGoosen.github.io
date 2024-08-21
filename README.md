@@ -19,26 +19,28 @@ I'm actively engaged with the latest developments in data science, software deve
 ### [Cybersecurity Data Analysis and Visualization](cybersecurity.html)
 This project focuses on developing a robust system for analyzing cybersecurity events, with the goal of enhancing an organization's ability to detect and respond to threats in real-time. By systematically processing and analyzing large datasets of both malicious and non-malicious events, this project offers key insights that can strengthen an organization's security posture.
 
-Key Deliverables:
+##### Key Deliverables:
 
-1. Data Cleaning and Handling: Implemented advanced data preprocessing techniques to ensure the accuracy and reliability of event data, eliminating noise and inconsistencies that could otherwise lead to incorrect threat assessments.
+1.Data Cleaning and Handling: Implemented advanced data preprocessing techniques to ensure the accuracy and reliability of event data, eliminating noise and inconsistencies that could otherwise lead to incorrect threat assessments.
 
-2. Visualization: Created dynamic visualizations that provide security teams with clear, actionable insights into patterns and trends in cybersecurity incidents, enabling faster identification of potential vulnerabilities.
+2.Visualization: Created dynamic visualizations that provide security teams with clear, actionable insights into patterns and trends in cybersecurity incidents, enabling faster identification of potential vulnerabilities.
 
-3. Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection. ![PCA](/assets/img/PCA.png)
+3.Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection. 
 
-4. Predictive Modeling: Developed a logistic regression model tailored to predicting malicious events. This model allows for real-time monitoring and threat assessment, empowering organizations to proactively mitigate risks before they escalate into major security incidents.
+    ![PCA](/assets/img/PCA.png)
+
+4.Predictive Modeling: Developed and compared bagging tree and logistic regression models tailored to predicting malicious events. The selected model allows for real-time monitoring and threat assessment, empowering organizations to proactively mitigate risks before they escalate into major security incidents.
 
 ![Confusion_Matrix](/assets/img/confusion_matrices.png)
 
-Business Value:
+##### Business Value:
 
 This project directly contributes to reducing the risk of cyberattacks by providing a scalable and efficient method for real-time threat detection. By leveraging advanced statistical techniques and predictive modeling, organizations can make data-driven decisions to safeguard their digital assets, minimize downtime, and protect sensitive information. Ultimately, this project not only improves security outcomes but also contributes to cost savings by preventing breaches and reducing the need for reactive security measures.
 
 ### [Natural Language Processing: Sentiment Analysis](/assets/files/twitter.pdf)
 This self-directed postgraduate research project demonstrates the application of advanced Natural Language Processing (NLP) techniques to assess public sentiment toward vaccine-related messaging. By collecting data from Twitter and Facebook posts from authoritative health organizations such as The Australian Department of Health and Aged Care, the Centers for Disease Control and Prevention (CDC), and the National Health Service (NHS), the project aims to deliver actionable insights into public health communication effectiveness.
 
-Key Deliverables:
+##### Key Deliverables:
 
 1. Data Collection and Analysis: Extracted and analyzed social media posts to understand public sentiment toward vaccines. This data-driven approach enables public health organizations to gauge real-time public opinion and adjust their messaging strategies accordingly.
 
@@ -48,19 +50,50 @@ Key Deliverables:
 
 ![Word Clouds](/assets/img/word_clouds.png)
 
-Business Value:
+##### Business Value:
 
 This project provides organizations with a powerful tool to analyze and understand public sentiment in real-time. By accurately predicting public responses to health messaging, it enables decision-makers to tailor communication strategies that resonate with the audience, leading to increased public engagement and trust. The methodologies developed in this project can be applied across various industries, from healthcare to marketing, where understanding customer sentiment is crucial for success.
 
 ### [Computer Vision: Object Detection](/assets/files/computer_vision.pdf)
-Developed Python-based solutions using PyTorch models for accurate detection of weed and non-weed objects. Collaborated on project planning, data collection, reporting, and presentation. Lead the model building and evaluation to ensure ideal model comparisons for a robust industry-ready weed detection system. 
+Developed Python-based solutions using PyTorch models for accurate detection of weed and non-weed objects. Collaborated on project planning, data collection, reporting, and presentation. Led the model building and evaluation to ensure ideal model comparisons for a robust industry-ready weed detection system.
 
+##### Key Deliverables:
+
+1. YOLOv8 Weed Detection Model: Implemented a YOLOv8-based model trained on the weedCOCO dataset, achieving optimal performance for weed detection in agricultural imagery.
+
+3. Data Preparation: Utilized RoboFlow for dataset management, resizing, and annotation conversion, reducing dataset size from 28 GB to 5 GB.
+
+2. Model Training and Validation: Successfully trained the YOLOv8 model in Google Colab with cloud GPU acceleration, optimizing the model for 200 epochs and validating its performance on a separate test dataset.
+
+##### Business Value:
+
+    Enhanced Efficiency: Automated weed detection reduces manual labor, leading to significant cost savings and more sustainable farming practices.
+    Precision Agriculture: Leveraged deep learning to improve weed management, leading to higher crop yields and better resource allocation.
+    Scalable Solutions: Delivered a scalable and robust weed detection system, providing the agriculture industry with a modern tool to address weed-related challenges.
+    
 ![Object Detection](/assets/img/computer_vision.jpg)
 
 ### [Hashcast: Time Series Forecasting](https://github.com/StephenGoosen/hashcast)
-Django WebDev project that utilizes Yahoo Finance's yfinance API for stock price predictions. The project has two components: A stock forecast generation tool, that generates forecasts for selected stocks over specified time periods. An education section on time series forecasting in general, as well as a tutorial on how to get the most out of the generation tool.
+Django-based SaaS project designed for stock price predictions using advanced time series forecasting techniques. The application includes a comprehensive stock forecast generation tool and an educational section on time series forecasting, offering both general insights and a tutorial on maximizing the tool's capabilities.
 
 ~IN PROGRESS~
+
+##### Key Deliverables:
+
+1.Time Series Forecasting Models: Implements LSTM, ARIMA, and Facebook's Prophet models, providing users with diverse forecasting options for analyzing stock trends.
+
+2.Data Storage and Management: Transitioned from using Yahoo Finance's yfinance API to storing historical stock data in a TimescaleDB PostgreSQL server, ensuring efficient data retrieval and scalability.
+
+3.Educational Resources: Developed an educational section to guide users through the fundamentals of time series forecasting, enhancing the usability and accessibility of the forecasting tool.
+
+##### Business Value:
+
+1.Comprehensive Forecasting Solutions: Offers users a versatile tool for generating accurate stock price predictions, supporting better investment decisions.
+
+2.Scalability and Efficiency: Utilizes TimescaleDB for optimized data storage, enabling the platform to handle large datasets and deliver fast, reliable results.
+
+3.User Empowerment: Educates users on time series forecasting, fostering a deeper understanding of the methods and encouraging informed use of the tool.
+
 ![hashcast](/assets/img/hashcast_new.png)
 
 ### [RL_poker: Reinforcement Learning Poker AI](https://github.com/StephenGoosen/RL_poker)
