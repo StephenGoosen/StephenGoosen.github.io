@@ -25,9 +25,7 @@ Key Deliverables:
 
 2. Visualization: Created dynamic visualizations that provide security teams with clear, actionable insights into patterns and trends in cybersecurity incidents, enabling faster identification of potential vulnerabilities.
 
-3. Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection.
-
-![PCA](/assets/img/PCA.png)
+3. Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection. ![PCA](/assets/img/PCA.png)
 
 4. Predictive Modeling: Developed a logistic regression model tailored to predicting malicious events. This model allows for real-time monitoring and threat assessment, empowering organizations to proactively mitigate risks before they escalate into major security incidents.
 
@@ -38,8 +36,21 @@ Business Value:
 This project directly contributes to reducing the risk of cyberattacks by providing a scalable and efficient method for real-time threat detection. By leveraging advanced statistical techniques and predictive modeling, organizations can make data-driven decisions to safeguard their digital assets, minimize downtime, and protect sensitive information. Ultimately, this project not only improves security outcomes but also contributes to cost savings by preventing breaches and reducing the need for reactive security measures.
 
 ### [Natural Language Processing: Sentiment Analysis](/assets/files/twitter.pdf)
-My postgraduate self-directed research project. Data was collected from both twitter and facebook on vaccine-related posts from The Australian Department of Health and Aged Care, Center from Disease Control and Prevention, and the National Health Service. NLP tools were used to predict the vaccine-stance of the posts that could then indicate public responses to different public health messaging strategies. A combined custom neural network, sentiment analysis, and topic modelling approach was used to improve model training and predictions on the limited available data.
+This self-directed postgraduate research project demonstrates the application of advanced Natural Language Processing (NLP) techniques to assess public sentiment toward vaccine-related messaging. By collecting data from Twitter and Facebook posts from authoritative health organizations such as The Australian Department of Health and Aged Care, the Centers for Disease Control and Prevention (CDC), and the National Health Service (NHS), the project aims to deliver actionable insights into public health communication effectiveness.
+
+Key Deliverables:
+
+1. Data Collection and Analysis: Extracted and analyzed social media posts to understand public sentiment toward vaccines. This data-driven approach enables public health organizations to gauge real-time public opinion and adjust their messaging strategies accordingly.
+
+2. Sentiment Prediction: Leveraged a custom neural network, sentiment analysis, and topic modeling approach to predict the vaccine stance of each post. This predictive capability allows health authorities to identify emerging trends and potential areas of concern within the public discourse.
+
+3. Improved Model Training: Developed innovative techniques to enhance model accuracy, even with limited data. By combining multiple NLP tools, the project demonstrates how to maximize the value of small datasets, making it relevant for businesses and organizations with similar data constraints.
+
 ![Word Clouds](/assets/img/word_clouds.png)
+
+Business Value:
+
+This project provides organizations with a powerful tool to analyze and understand public sentiment in real-time. By accurately predicting public responses to health messaging, it enables decision-makers to tailor communication strategies that resonate with the audience, leading to increased public engagement and trust. The methodologies developed in this project can be applied across various industries, from healthcare to marketing, where understanding customer sentiment is crucial for success.
 
 ### [Computer Vision: Object Detection](/assets/files/computer_vision.pdf)
 Developed Python-based solutions using PyTorch models for accurate detection of weed and non-weed objects. Collaborated on project planning, data collection, reporting, and presentation. Lead the model building and evaluation to ensure ideal model comparisons for a robust industry-ready weed detection system. 
