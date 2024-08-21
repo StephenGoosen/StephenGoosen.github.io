@@ -132,7 +132,7 @@ A Python-based poker game developed using Pygame and Blender, featuring a poker 
 
 #### Key Deliverables:
 
-1. Game Development with Python: Created a full-fledged poker game from scratch using Python, demonstrating proficiency in object-oriented programming (OOP) and game development frameworks.
+1. Game Development with Python: Created a full-fledged poker game from scratch using Python, demonstrating proficiency in object-oriented programming and game development frameworks.
 
 2. Custom Graphics and Animation: Utilized Blender for crafting custom game graphics and animations, enriching the visual experience.
 
