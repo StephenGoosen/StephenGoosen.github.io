@@ -4,7 +4,7 @@
 
 Hello! I'm a data science enthusiast with a unique background in Psychological Science, which I transitioned from in 2022. This career shift has been incredibly rewarding, allowing me to combine my passion for data analysis with my interest in understanding human behavior. I enjoy working with biostatistical and psychometric data as this is my subject matter passion, but have also worked with agricultural, energy, and network data. The shift to data science has equipped me with a greater set of skills in statistical methods.
 
-I'm actively engaged with the latest developments in data science, software development, and machine learning. I have spent a lot of my time during my studies on practical implementation experience. My goal is to continue refining my expertise and advancing toward a role as a full-stack, all-rounder data scientist, contributing to impactful projects and solving real-world problems through data-driven insights. You can contact me on stephengoosen@gmail.com if you have any questions. 
+I'm actively engaged with the latest developments in data science, software development, and machine learning. I have spent a lot of my time during my studies on practical implementation experience. My goal is to continue refining my expertise and advancing toward a role as a data scientist, contributing to impactful projects and solving real-world problems through data-driven insights. You can contact me on stephengoosen@gmail.com if you have any questions. 
 
 ---
 
@@ -17,9 +17,25 @@ I'm actively engaged with the latest developments in data science, software deve
 ## Projects
 
 ### [Cybersecurity Data Analysis and Visualization](cybersecurity.html)
-Written in R, this project involves a detailed and systematic approach to analyze malicious and non-malicious cybersecurity events. The process includes cleaning and handling data, visualizations, and principal component analysis. The dimensionality reduction of the data and the identification of important variables allows for the building of a logistic regression model to predict malicious and non-malicious events in real-time. 
+This project focuses on developing a robust system for analyzing cybersecurity events, with the goal of enhancing an organization's ability to detect and respond to threats in real-time. By systematically processing and analyzing large datasets of both malicious and non-malicious events, this project offers key insights that can strengthen an organization's security posture.
 
-![Confusion_Matrix](/assets/img/confusion_matrices.png) ![PCA](/assets/img/PCA.png)
+Key Deliverables:
+
+    Data Cleaning and Handling: Implemented advanced data preprocessing techniques to ensure the accuracy and reliability of event data, eliminating noise and inconsistencies that could otherwise lead to incorrect threat assessments.
+
+    Visualization: Created dynamic visualizations that provide security teams with clear, actionable insights into patterns and trends in cybersecurity incidents, enabling faster identification of potential vulnerabilities.
+
+    Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection.
+    
+![PCA](/assets/img/PCA.png)
+
+    Predictive Modeling: Developed a logistic regression model tailored to predicting malicious events. This model allows for real-time monitoring and threat assessment, empowering organizations to proactively mitigate risks before they escalate into major security incidents.
+
+![Confusion_Matrix](/assets/img/confusion_matrices.png)
+
+Business Value:
+
+This project directly contributes to reducing the risk of cyberattacks by providing a scalable and efficient method for real-time threat detection. By leveraging advanced statistical techniques and predictive modeling, organizations can make data-driven decisions to safeguard their digital assets, minimize downtime, and protect sensitive information. Ultimately, this project not only improves security outcomes but also contributes to cost savings by preventing breaches and reducing the need for reactive security measures.
 
 ### [Natural Language Processing: Sentiment Analysis](/assets/files/twitter.pdf)
 My postgraduate self-directed research project. Data was collected from both twitter and facebook on vaccine-related posts from The Australian Department of Health and Aged Care, Center from Disease Control and Prevention, and the National Health Service. NLP tools were used to predict the vaccine-stance of the posts that could then indicate public responses to different public health messaging strategies. A combined custom neural network, sentiment analysis, and topic modelling approach was used to improve model training and predictions on the limited available data.
