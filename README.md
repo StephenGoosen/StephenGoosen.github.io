@@ -21,15 +21,15 @@ This project focuses on developing a robust system for analyzing cybersecurity e
 
 Key Deliverables:
 
-    Data Cleaning and Handling: Implemented advanced data preprocessing techniques to ensure the accuracy and reliability of event data, eliminating noise and inconsistencies that could otherwise lead to incorrect threat assessments.
+1. Data Cleaning and Handling: Implemented advanced data preprocessing techniques to ensure the accuracy and reliability of event data, eliminating noise and inconsistencies that could otherwise lead to incorrect threat assessments.
 
-    Visualization: Created dynamic visualizations that provide security teams with clear, actionable insights into patterns and trends in cybersecurity incidents, enabling faster identification of potential vulnerabilities.
+2. Visualization: Created dynamic visualizations that provide security teams with clear, actionable insights into patterns and trends in cybersecurity incidents, enabling faster identification of potential vulnerabilities.
 
-    Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection.
-    
+3. Principal Component Analysis (PCA): Applied PCA for dimensionality reduction, focusing on the most critical variables. This not only enhances computational efficiency but also sharpens the focus on key indicators of malicious activity, leading to more precise threat detection.
+
 ![PCA](/assets/img/PCA.png)
 
-    Predictive Modeling: Developed a logistic regression model tailored to predicting malicious events. This model allows for real-time monitoring and threat assessment, empowering organizations to proactively mitigate risks before they escalate into major security incidents.
+4. Predictive Modeling: Developed a logistic regression model tailored to predicting malicious events. This model allows for real-time monitoring and threat assessment, empowering organizations to proactively mitigate risks before they escalate into major security incidents.
 
 ![Confusion_Matrix](/assets/img/confusion_matrices.png)
 
