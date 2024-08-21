@@ -2,9 +2,13 @@
 
 ---
 
-Hello! I'm a data science enthusiast with a unique background in Psychological Science, which I transitioned from in 2022. This career shift has been incredibly rewarding, allowing me to combine my passion for data analysis with my interest in understanding human behavior. I enjoy working with biostatistical and psychometric data as this is my subject matter passion, but have also worked with agricultural, energy, and network data. The shift to data science has equipped me with a greater set of skills in statistical methods.
+Hello! I’m a data science enthusiast with a unique background in Psychological Science, which I transitioned from in 2022. This career shift has been incredibly rewarding, allowing me to blend my passion for data analysis with my interest in understanding human behavior. I not only focus on biostatistical and psychometric data but have also applied my skills to agricultural, energy, and network data.
 
-I'm actively engaged with the latest developments in data science, software development, and machine learning. I have spent a lot of my time during my studies on practical implementation experience. My goal is to continue refining my expertise and advancing toward a role as a data scientist, contributing to impactful projects and solving real-world problems through data-driven insights. You can contact me on stephengoosen@gmail.com if you have any questions. 
+My expertise extends to using data-driven insights to solve complex business problems, enhance decision-making, and drive strategic initiatives. By leveraging statistical methods, machine learning, and advanced data analytics, I strive to uncover valuable insights that can optimize processes, improve efficiency, and support informed decision-making across various domains.
+
+I’m actively engaged with the latest developments in data science, software development, and machine learning, with a focus on practical implementation and real-world applications. My goal is to continue refining my expertise and advance toward a data scientist role where I can contribute to impactful projects and solve critical business challenges through innovative, data-driven solutions.
+
+Feel free to contact me at stephengoosen@gmail.com if you have any questions or opportunities for collaboration.
 
 ---
 
@@ -98,6 +102,27 @@ Django-based SaaS project designed for stock price predictions using advanced ti
 
 ![hashcast](/assets/img/hashcast_new.png)
 
+### [Dog-or-not: Image Classification](https://github.com/StephenGoosen/dog-or-not)
+This project showcases the implementation of a binary image classification model using PyTorch, designed to distinguish between images containing dogs and those that do not. It demonstrates a comprehensive understanding of the machine learning pipeline, from data sourcing and transformation to model deployment in a practical application.
+
+![Example](/assets/img/Example.png)
+
+#### Key Deliverables:
+
+1. Data Sourcing and Transformation: Successfully sourced and preprocessed image data, applying techniques such as data augmentation to improve model performance.
+
+2. Model Building and Optimization: Developed a binary classification model using PyTorch, with a focus on handling class imbalance and optimizing model evaluation metrics.
+
+3. Application Development: Created a user-friendly application that showcases the model’s practical use, enabling users to upload images and receive real-time classification results.
+
+4. Modular and Reusable Code: Designed the project codebase to be modular and reusable, allowing easy adaptation for other datasets or similar image classification problems.
+
+#### Business Value:
+
+1. Versatile Image Classification Tool: Provides a robust solution for binary image classification tasks, applicable across various projects and industries.
+
+2. Efficient Workflow: Demonstrates efficient data processing and model deployment practices, ensuring reliable and accurate results.
+
 ### [RL_poker: Reinforcement Learning Poker AI](https://github.com/StephenGoosen/RL_poker)
 A Python-based poker game developed using Pygame and Blender, featuring a poker bot designed with deep reinforcement learning algorithms for tackling imperfect-information games. This project combines game development with advanced AI techniques.
 
@@ -120,29 +145,6 @@ A Python-based poker game developed using Pygame and Blender, featuring a poker 
 1. AI-Powered Gaming: This project aims to blend traditional gaming with cutting-edge AI, offering insights into the development of intelligent agents in complex, uncertain environments.
 
 2. Customizable Game Engine: The game engine can be adapted for other card games, showcasing flexibility and potential for further development.
-
-
-### [Dog-or-not: Image Classification](https://github.com/StephenGoosen/dog-or-not)
-This project showcases the implementation of a binary image classification model using PyTorch, designed to distinguish between images containing dogs and those that do not. It demonstrates a comprehensive understanding of the machine learning pipeline, from data sourcing and transformation to model deployment in a practical application.
-
-![Example](/assets/img/Example.png)
-
-#### Key Deliverables:
-
-1. Data Sourcing and Transformation: Successfully sourced and preprocessed image data, applying techniques such as data augmentation to improve model performance.
-
-2. Model Building and Optimization: Developed a binary classification model using PyTorch, with a focus on handling class imbalance and optimizing model evaluation metrics.
-
-3. Application Development: Created a user-friendly application that showcases the model’s practical use, enabling users to upload images and receive real-time classification results.
-
-4. Modular and Reusable Code: Designed the project codebase to be modular and reusable, allowing easy adaptation for other datasets or similar image classification problems.
-
-#### Business Value:
-
-1. Versatile Image Classification Tool: Provides a robust solution for binary image classification tasks, applicable across various projects and industries.
-
-2. Efficient Workflow: Demonstrates efficient data processing and model deployment practices, ensuring reliable and accurate results.
-
 
 
 
