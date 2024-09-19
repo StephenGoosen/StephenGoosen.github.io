@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Analyst, Programmer, & Aspiring Data Scientist
 
 ---
 
@@ -22,6 +22,10 @@ Feel free to contact me at stephengoosen@gmail.com if you have any questions or 
 
 ### [Cybersecurity Data Analysis and Visualization](cybersecurity.html)
 This project focuses on developing a robust system for analyzing cybersecurity events, with the goal of enhancing an organization's ability to detect and respond to threats in real-time. By systematically processing and analyzing large datasets of both malicious and non-malicious events, this project offers key insights that can strengthen an organization's security posture.
+
+#### Tools:
+
+Rmarkdown
 
 #### Key Deliverables:
 
@@ -54,6 +58,10 @@ This self-directed postgraduate research project demonstrates the application of
 
 ![Word Clouds](/assets/img/word_clouds.png)
 
+#### Tools:
+
+Python, PyTorch, Pandas, NumPy
+
 #### Business Value:
 
 This project provides organizations with a powerful tool to analyze and understand public sentiment in real-time. By accurately predicting public responses to health messaging, it enables decision-makers to tailor communication strategies that resonate with the audience, leading to increased public engagement and trust. The methodologies developed in this project can be applied across various industries, from healthcare to marketing, where understanding customer sentiment is crucial for success.
@@ -69,7 +77,11 @@ Developed Python-based solutions using PyTorch models for accurate detection of 
 
 2. Model Training and Validation: Successfully trained the YOLOv8 model in Google Colab with cloud GPU acceleration, optimizing the model for 200 epochs and validating its performance on a separate test dataset.
 
-##### Business Value:
+#### Tools:
+
+Python, Tensorflow, Visio
+
+#### Business Value:
 
 1. Enhanced Efficiency: Automated weed detection reduces manual labor, leading to significant cost savings and more sustainable farming practices.
 
@@ -80,7 +92,7 @@ Developed Python-based solutions using PyTorch models for accurate detection of 
 ![Object Detection](/assets/img/computer_vision.jpg)
 
 ### [Hashcast: Time Series Forecasting](https://github.com/StephenGoosen/hashcast)
-Django-based SaaS project designed for stock price predictions using advanced time series forecasting techniques. The application includes a comprehensive stock forecast generation tool and an educational section on time series forecasting, offering both general insights and a tutorial on maximizing the tool's capabilities.
+End-to-end Django-based SaaS project designed for stock price predictions using advanced time series forecasting techniques. The application includes a comprehensive stock forecast generation tool and an educational section on time series forecasting, offering both general insights and a tutorial on maximizing the tool's capabilities.
 
 ~IN PROGRESS~
 
@@ -91,6 +103,10 @@ Django-based SaaS project designed for stock price predictions using advanced ti
 2. Data Storage and Management: Transitioned from using Yahoo Finance's yfinance API to storing historical stock data in a TimescaleDB PostgreSQL server, ensuring efficient data retrieval and scalability.
 
 3. Educational Resources: Developed an educational section to guide users through the fundamentals of time series forecasting, enhancing the usability and accessibility of the forecasting tool.
+
+#### Tools:
+
+Python, PostgresQL, TimescaleDB, Django, Excel, Rest APIs
 
 #### Business Value:
 
@@ -117,6 +133,10 @@ This project showcases the implementation of a binary image classification model
 
 4. Modular and Reusable Code: Designed the project codebase to be modular and reusable, allowing easy adaptation for other datasets or similar image classification problems.
 
+#### Tools:
+
+Python, PyTorch, NumPy, Pandas
+
 #### Business Value:
 
 1. Versatile Image Classification Tool: Provides a robust solution for binary image classification tasks, applicable across various projects and industries.
@@ -129,6 +149,10 @@ A Python-based poker game developed using Pygame and Blender, featuring a poker 
 ~IN PROGRESS~
 
 ![Example](/assets/img/poker.png)
+
+#### Tools:
+
+Python, Pandas, PyTorch, NumPy, PyGame, Blender (for animation)
 
 #### Key Deliverables:
 
@@ -145,6 +169,3 @@ A Python-based poker game developed using Pygame and Blender, featuring a poker 
 1. AI-Powered Gaming: This project aims to blend traditional gaming with cutting-edge AI, offering insights into the development of intelligent agents in complex, uncertain environments.
 
 2. Customizable Game Engine: The game engine can be adapted for other card games, showcasing flexibility and potential for further development.
-
-
-
