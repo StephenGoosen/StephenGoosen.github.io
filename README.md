@@ -1,6 +1,6 @@
 # Data Professional
 
-\---
+---
 
 I design practical data, digital and automation solutions that turn complex information, inefficient processes and difficult business problems into reliable systems, actionable intelligence and better decisions.
 
@@ -10,7 +10,7 @@ I hold a **Master of Data Science from Edith Cowan University** and a **Bachelor
 
 Feel free to contact me at **stephengoosen@gmail.com**.
 
-\---
+---
 
 ## What I Do
 
@@ -18,19 +18,19 @@ Feel free to contact me at **stephengoosen@gmail.com**.
 
 Transform complex datasets into meaningful analysis, trends and decision-ready information.
 
-### Data Cleansing \& Transformation
+### Data Cleansing and Transformation
 
 Identify inconsistencies, validate information, restructure datasets and develop reliable analytical data.
 
-### Database \& Data Architecture
+### Database and Data Architecture
 
 Design relational databases, data models and information structures that support operational systems, reporting and analytics.
 
-### Dashboards \& Reporting
+### Dashboards and Reporting
 
 Develop analytical reporting and interactive visualisations that make complex information easier to understand and use.
 
-### Automation \& Digital Solutions
+### Automation and Digital Solutions
 
 Design workflows and applications that reduce repetitive work, improve information capture and streamline business processes.
 
@@ -46,15 +46,15 @@ Develop responsive websites and lightweight web applications.
 
 Integrate artificial intelligence and large language models into real-world automated workflows, including document analysis, information extraction and structured assessment.
 
-\---
+---
 
 ## Professional Work
 
 Much of my professional work has been undertaken within environmental regulation and government. Some descriptions below are intentionally high-level to respect information security, confidentiality and regulatory sensitivities.
 
-\---
+---
 
-### Regulatory Intelligence \& Compliance Analytics
+### Regulatory Intelligence and Compliance Analytics
 
 #### [Unlicensed Asbestos Waste Transporters Intelligence Project](https://ntepa.nt.gov.au/__data/assets/pdf_file/0003/1583832/r251201-intelligence-report-unlicensed-asbestos-waste-transporters.PDF)
 
@@ -77,11 +77,11 @@ This demonstrated how administrative and regulatory datasets can be transformed 
 
 **Published report:** [Intelligence Report – Unlicensed Asbestos Waste Transporters](https://ntepa.nt.gov.au/__data/assets/pdf_file/0003/1583832/r251201-intelligence-report-unlicensed-asbestos-waste-transporters.PDF)
 
-\---
+---
 
-### Environmental Data Management \& Petroleum Regulation
+### Environmental Data Management and Petroleum Regulation
 
-#### ESdat \& Petroleum Regulation Data
+#### ESdat and Petroleum Regulation Data
 
 Co-led implementation of **ESdat** as an environmental data management platform supporting petroleum regulation, including requirements definition, vendor engagement, system configuration and customisation, user testing, team training, data QA/QC and preparation of datasets for operational use.
 
@@ -110,7 +110,7 @@ Reliable environmental data is fundamental to effective regulation. Improving th
 * Database structures
 * ESdat
 
-\---
+---
 
 ### Groundwater Monitoring Analytics
 
@@ -127,11 +127,11 @@ The application supports the interpretation of monitoring data by bringing toget
 * Data visualisation
 * Regulatory decision support
 
-\---
+---
 
 ### Container Deposit Scheme Analysis
 
-#### Root Cause Analysis \& Financial Risk Analysis
+#### Root Cause Analysis and Financial Risk Analysis
 
 Planned and delivered large-scale data investigations relating to the operation of the Northern Territory Container Deposit Scheme, including analysis across Australian jurisdictions.
 
@@ -157,9 +157,9 @@ For a public-facing environmental scheme, effective analysis supports more than 
 * Process analysis
 * Decision support
 
-\---
+---
 
-### Regulatory Offences \& Penalties Calculator
+### Regulatory Offences and Penalties Calculator
 
 Developed an **Offences and Penalties Calculator** covering legislation and regulations administered by the Department of Lands, Planning and Environment.
 
@@ -183,9 +183,9 @@ The tool supports:
 * Digital transformation
 * Process improvement
 
-\---
+---
 
-### Microsoft Power Platform \& Business Process Digitisation
+### Microsoft Power Platform and Business Process Digitisation
 
 Designed and developed solutions using the **Microsoft Power Platform** to digitise business processes, improve information capture and create more useful organisational data.
 
@@ -214,7 +214,7 @@ A key focus of this work is not simply converting paper forms into digital forms
 
 This allows information collected for an immediate operational purpose to also support future reporting, analytics, automation and system integration.
 
-\---
+---
 
 ### External Regulatory Reporting Systems
 
@@ -233,9 +233,9 @@ These solutions digitise end-to-end reporting processes while improving traceabi
 * Auditability
 * Regulatory process design
 
-\---
+---
 
-### Database Structures \& Digital Reporting
+### Database Structures and Digital Reporting
 
 Designed database structures and information models to convert fragmented, spreadsheet-based or document-based processes into structured digital systems.
 
@@ -264,7 +264,7 @@ Good application development starts with good data architecture. A well-designed
 * Reporting architecture
 * Business systems analysis
 
-\---
+---
 
 ### Applied AI
 
@@ -287,7 +287,7 @@ The solution combines:
 
 Rather than using AI as a standalone chatbot, the system integrates AI into a broader business process. Documents are processed and assessed against defined regulatory requirements, with findings returned in a structured form for review.
 
-> \*\*AI should support professional judgement, not replace it.\*\*
+> AI should support professional judgement, not replace it.
 
 Outputs are structured to support traceability, evidence review and human decision-making.
 
@@ -304,13 +304,13 @@ Outputs are structured to support traceability, evidence review and human decisi
 * Human-in-the-loop AI
 * Regulatory technology
 
-\---
+---
 
 ## Technical Skills
 
-### Data \& Analytics
+### Data and Analytics
 
-`Python` `R` `SQL` `Power BI` `Excel` `Pandas` `NumPy` `JavaScript`
+`Python` | `R`  | `SQL` | `Power BI` | `Excel` | `Pandas` | `NumPy` | `JavaScript`
 
 * Statistical analysis
 * Exploratory data analysis
@@ -324,7 +324,7 @@ Outputs are structured to support traceability, evidence review and human decisi
 
 ### Microsoft Power Platform
 
-`Power Apps` `Power Automate` `Power Pages` `Dataverse` `Power BI`
+`Power Apps` | `Power Automate` | `Power Pages` | `Dataverse` | `Power BI`
 
 * Model-driven applications
 * Business process applications
@@ -334,9 +334,9 @@ Outputs are structured to support traceability, evidence review and human decisi
 * Document workflows
 * Business process digitisation
 
-### Data \& Information Systems
+### Data and Information Systems
 
-`SQL` `PostgreSQL` `TimescaleDB` `Dataverse` `ESdat`
+`SQL` | `PostgreSQL` | `TimescaleDB` | `Dataverse` | `ESdat`
 
 * Relational database design
 * Data modelling
@@ -348,7 +348,7 @@ Outputs are structured to support traceability, evidence review and human decisi
 
 ### Development
 
-`Python` `HTML` `CSS` `JavaScript` `Django` `Git` `GitHub`
+`Python` | `HTML` | `CSS` | `JavaScript` | `Django` | `Git` | `GitHub`
 
 * Web development
 * Application development
@@ -356,9 +356,9 @@ Outputs are structured to support traceability, evidence review and human decisi
 * Business applications
 * Automation
 
-### AI \& Machine Learning
+### AI and Machine Learning
 
-`PyTorch` `TensorFlow` `LLMs` `NLP`
+`PyTorch` | `TensorFlow` | `LLMs` | `NLP`
 
 * Large language model integration
 * Prompt engineering
@@ -369,13 +369,13 @@ Outputs are structured to support traceability, evidence review and human decisi
 * Document analysis
 * AI-assisted workflows
 
-\---
+---
 
 ## Selected Technical Projects
 
 My professional work is supported by postgraduate and self-directed projects across machine learning, statistics, software development and artificial intelligence.
 
-\---
+---
 
 ### [Cybersecurity Data Analysis and Visualization](cybersecurity.html)
 
@@ -392,11 +392,11 @@ Developed an analytical workflow for identifying patterns in cybersecurity event
 3. **Principal Component Analysis:** Applied PCA for dimensionality reduction and identification of important variables.
 4. **Predictive modelling:** Developed and compared bagging tree and logistic regression models for malicious-event prediction.
 
-!\[PCA](/assets/img/PCA.png)
+![PCA](/assets/img/PCA.png)
 
-!\[Confusion Matrix](/assets/img/confusion\_matrices.png)
+![Confusion Matrix](/assets/img/confusion\_matrices.png)
 
-\---
+---
 
 ### [Natural Language Processing: Sentiment Analysis](/assets/files/twitter.pdf)
 
@@ -411,11 +411,11 @@ Developed a postgraduate NLP project analysing social media communications relat
 
 #### Tools
 
-`Python` `PyTorch` `Pandas` `NumPy`
+`Python` | `PyTorch` | `Pandas` | `NumPy`
 
-!\[Word Clouds](/assets/img/word\_clouds.png)
+![Word Clouds](/assets/img/word\_clouds.png)
 
-\---
+---
 
 ### [Computer Vision: Object Detection](/assets/files/computer_vision.pdf)
 
@@ -430,11 +430,11 @@ Developed and evaluated computer vision approaches for detecting weeds in agricu
 
 #### Tools
 
-`Python` `PyTorch` `YOLOv8` `Roboflow`
+`Python` | `PyTorch` | `YOLOv8` | `Roboflow`
 
-!\[Object Detection](/assets/img/computer\_vision.jpg)
+![Object Detection](/assets/img/computer\_vision.jpg)
 
-\---
+---
 
 ### [Hashcast: Time Series Forecasting](https://github.com/StephenGoosen/hashcast)
 
@@ -449,11 +449,11 @@ End-to-end Django-based application exploring stock-market time-series forecasti
 
 #### Tools
 
-`Python` `PostgreSQL` `TimescaleDB` `Django` `REST APIs`
+`Python` | `PostgreSQL` | `TimescaleDB` | `Django` | `REST APIs`
 
-!\[Hashcast](/assets/img/hashcast\_new.png)
+![Hashcast](/assets/img/hashcast\_new.png)
 
-\---
+---
 
 ### [Dog-or-not: Image Classification](https://github.com/StephenGoosen/dog-or-not)
 
@@ -468,11 +468,11 @@ Developed a binary image-classification pipeline using PyTorch to determine whet
 
 #### Tools
 
-`Python` `PyTorch` `NumPy` `Pandas`
+`Python` | `PyTorch` | `NumPy` | `Pandas`
 
-!\[Example](/assets/img/Example.png)
+![Example](/assets/img/Example.png)
 
-\---
+---
 
 ## Education
 
@@ -484,7 +484,7 @@ Developed a binary image-classification pipeline using PyTorch to determine whet
 
 **Charles Darwin University**
 
-\---
+---
 
 ## Contact
 
