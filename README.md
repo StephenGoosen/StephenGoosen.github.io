@@ -1,24 +1,265 @@
-# Data Analyst, Programmer, & Aspiring Data Scientist
+# Data Science | Digital Solutions | Business Process Improvements
 
 ---
 
-Hello! I’m a data science enthusiast with a unique background in Psychological Science, which I transitioned from in 2022. This career shift has been incredibly rewarding, allowing me to blend my passion for data analysis with my interest in understanding human behavior. I not only focus on biostatistical and psychometric data but have also applied my skills to agricultural, energy, and network data.
+I design practical data, digital and automation solutions that turn complex information, inefficient processes and difficult business problems into reliable systems, actionable intelligence and better decisions.
 
-My expertise extends to using data-driven insights to solve complex business problems, enhance decision-making, and drive strategic initiatives. By leveraging statistical methods, machine learning, and advanced data analytics, I strive to uncover valuable insights that can optimize processes, improve efficiency, and support informed decision-making across various domains.
+My work spans data analytics, regulatory intelligence, data cleansing and transformation, database design, business process automation, application development, web development and AI-assisted solutions.
 
-I’m actively engaged with the latest developments in data science, software development, and machine learning, with a focus on practical implementation and real-world applications. My goal is to continue refining my expertise and advance toward a data scientist role where I can contribute to impactful projects and solve critical business challenges through innovative, data-driven solutions.
+I hold a Master of Data Science from Edith Cowan University and a Bachelor of Psychological Science from Charles Darwin University.
 
-Feel free to contact me at stephengoosen@gmail.com if you have any questions or opportunities for collaboration.
-
----
-
-## Education
-- Charles Darwin University: Bachelor of Science, Psych.
-- Edith Cowan University: Master of Data Science
+Feel free to contact me at stephengoosen@gmail.com
 
 ---
+## What I Do
+📊 Data Analytics
+Transform complex datasets into meaningful analysis, trends and decision-ready information.
+🧹 Data Cleansing & Transformation
+Identify inconsistencies, validate information, restructure datasets and develop reliable analytical data.
+🗄️ Database & Data Architecture
+Design relational databases, data models and information structures that support operational systems, reporting and analytics.
+📈 Dashboards & Reporting
+Develop analytical reporting and interactive visualisations that make complex information easier to understand and use.
+⚙️ Automation & Digital Solutions
+Design workflows and applications that reduce repetitive work, improve information capture and streamline business processes.
+💻 Business Application Development
+Develop practical applications using the Microsoft Power Platform and other technologies to solve operational business problems.
+🌐 Web Development
+Develop responsive websites and lightweight web applications.
+🤖 AI Solutions
+Integrate artificial intelligence and large language models into real-world automated workflows, including document analysis, information extraction and structured assessment.
 
-## Projects
+---
+## Professional Work
+Much of my professional work has been undertaken within environmental regulation and government. Some descriptions below are intentionally high-level to respect information security, confidentiality and regulatory sensitivities.
+
+---
+## Regulatory Intelligence & Compliance Analytics
+### [Unlicensed Asbestos Waste Transporters Intelligence Project](https://ntepa.nt.gov.au/__data/assets/pdf_file/0003/1583832/r251201-intelligence-report-unlicensed-asbestos-waste-transporters.PDF)
+Developed intelligence and data analysis supporting a targeted regulatory campaign examining potentially unlicensed commercial asbestos waste transportation in the Northern Territory.
+The project brought together information from multiple regulatory and operational sources and used data matching, validation and intelligence analysis to identify potential non-compliance.
+This demonstrated how existing administrative and regulatory datasets can be transformed into actionable intelligence, allowing regulatory resources to be more effectively directed toward areas of potential risk.
+Key capabilities
+-Regulatory intelligence
+-Data matching
+-Data cleansing
+-Cross-dataset validation
+-Risk identification
+-Open-source intelligence
+-Analytical reporting
+-Compliance analytics
+-Published Report
+[Intelligence Report – Unlicensed Asbestos Waste Transporters](https://ntepa.nt.gov.au/__data/assets/pdf_file/0003/1583832/r251201-intelligence-report-unlicensed-asbestos-waste-transporters.PDF)
+
+## Environmental Data Management & Petroleum Regulation
+### ESdat & Petroleum Regulation Data
+Worked on the implementation, improvement and use of ESdat as an environmental data management platform supporting petroleum regulation.
+A major component of this work involves the cleaning, validation, standardisation and restructuring of environmental monitoring information supplied from multiple sources.
+Environmental monitoring data can contain inconsistent naming conventions, historical structures, duplicate information, differing laboratory formats and other issues that reduce its usefulness if they are not properly addressed.
+Improving the quality and structure of this information allows regulatory officers to more reliably:
+-assess environmental monitoring results
+-identify trends over time
+-compare monitoring locations
+-identify anomalous results
+-evaluate potential compliance issues
+-interrogate historical monitoring records
+-support evidence-based regulatory decisions
+Reliable environmental data is fundamental to effective regulation. A regulator cannot confidently identify environmental change or compliance issues if the underlying information is inconsistent, incomplete or difficult to analyse.
+Key capabilities
+-Environmental data management
+-Data cleansing
+-Data validation
+-QA/QC
+-Data transformation
+-Data integration
+-Environmental monitoring data
+-Regulatory analytics
+-Database structures
+
+---
+## Container Deposit Scheme Analysis
+### Root Cause Analysis & Financial Risk Analysis
+Undertook root cause analysis and financial risk analysis relating to the operation of the Northern Territory Container Deposit Scheme.
+The work used data analysis to investigate identified issues, distinguish underlying causes from symptoms and assess potential financial and operational risks.
+Root cause analysis is particularly important in large public schemes because addressing individual anomalies without understanding their cause can allow systemic issues to continue.
+Financial risk analysis provides another layer of assurance by identifying patterns or behaviours that may create financial exposure for the scheme.
+For a public-facing environmental program, effective analysis contributes not only to sound financial management but also to maintaining confidence in the integrity of the scheme.
+Maintaining that credibility is important for:
+-public confidence
+-participant confidence
+-effective environmental outcomes
+-financial integrity
+-regulatory oversight
+-long-term scheme sustainability
+Key capabilities
+-Root cause analysis
+-Financial risk analysis
+-Data analysis
+-Risk identification
+-Pattern identification
+-Process analysis
+-Decision support
+-Environmental scheme regulation
+
+---
+## Regulatory Offences & Penalties Calculator
+Developed an Offences and Penalties Calculator covering legislation and regulations administered by the Department of Lands, Planning and Environment.
+Regulatory officers frequently need to identify applicable offences, legislative provisions and associated penalties across multiple pieces of legislation.
+The calculator transforms this information into a structured and accessible digital resource, reducing the effort required to repeatedly navigate legislation and manually determine applicable penalty information.
+The project demonstrates how structured regulatory information can be converted into a practical internal digital tool that:
+-reduces repetitive manual work
+-improves access to regulatory information
+-supports consistency
+-assists operational decision-making
+-makes complex legislative information easier to use
+Key capabilities
+-Business application development
+-Regulatory information systems
+-Data structuring
+-Legislative data
+-User-centred design
+-Digital transformation
+-Process improvement
+
+---
+## Microsoft Power Platform & Business Process Digitisation
+I have designed and developed a range of solutions using the Microsoft Power Platform to digitise business processes, improve information capture and create more useful organisational data.
+My work includes:
+-Power Apps
+-Model-driven applications
+-Power Pages
+-Power Automate
+-Microsoft Dataverse
+-automated notifications
+-document management workflows
+-digital assessment processes
+-incident reporting systems
+-operational tracking systems
+-structured reporting systems
+A key focus of this work is not simply converting a paper form into a digital form.
+I focus on the underlying information architecture first:
+> What information needs to be captured?  
+> How should it be structured?  
+> How do the entities relate?  
+> Who needs to use the information?  
+> What processes can be automated?  
+> What reporting and analysis may be needed later?
+This allows information collected for an immediate operational purpose to also support future reporting, analytics, automation and system integration.
+
+---
+## Database Structures & Digital Reporting
+Designed database structures and information models to convert fragmented, spreadsheet-based or document-based processes into structured digital systems.
+This work includes:
+-designing Dataverse tables
+-defining relationships between entities
+-structuring reference data
+-creating data capture processes
+-designing business workflows
+-developing applications around those structures
+-creating automated processing
+-supporting downstream reporting and analytics
+Good application development starts with good data architecture.
+A well-designed system allows information to be captured once and subsequently reused for operational management, reporting, analysis and automation.
+Key capabilities
+-Database design
+-Relational data modelling
+-Dataverse
+-Information architecture
+-Process mapping
+-Workflow design
+-Digital forms
+-Reporting architecture
+-Business systems analysis
+
+---
+## Applied AI
+### AI-Assisted Regulatory Assessment Pilot
+Designed and developed a pilot system exploring the practical use of large language models within a regulatory assessment workflow.
+The solution combines:
+-Microsoft Dataverse
+-Power Automate
+-document processing
+-structured prompts
+-large language models
+-automated workflows
+-structured assessment results
+-evidence extraction
+Rather than using AI as a standalone chatbot, the system integrates AI into a broader business process.
+Documents are processed and assessed against defined regulatory requirements, with findings returned in a structured form for review.
+The system was designed around an important principle:
+> **AI should support professional judgement, not replace it.**
+Outputs are therefore structured to support traceability, evidence review and human decision-making.
+The project demonstrates how AI can be practically integrated into existing organisational systems to assist with complex, document-heavy processes.
+Key capabilities
+-Applied AI
+-Large language models
+-Prompt engineering
+-Document analysis
+-Information extraction
+-Workflow automation
+-Dataverse
+-Structured assessment
+-Human-in-the-loop AI
+-Regulatory technology
+---
+
+Technical Skills
+Data & Analytics
+`Python` `R` `SQL` `Power BI` `Excel` `Pandas` `NumPy` `JavaScript`
+-Statistical analysis
+-Exploratory data analysis
+-Data cleansing
+-Data transformation
+-Data validation
+-Data visualisation
+-Time-series analysis
+-Predictive modelling
+-Machine learning
+
+Microsoft Power Platform
+`Power Apps` `Power Automate` `Power Pages` `Dataverse` `Power BI`
+Model-driven applications
+Business process applications
+Workflow automation
+Database design
+External-facing forms
+Document workflows
+Business process digitisation
+---
+Data & Information Systems
+`SQL` `PostgreSQL` `TimescaleDB` `Dataverse` `ESdat`
+Relational database design
+Data modelling
+Data integration
+Data quality
+ETL
+Information architecture
+Environmental data management
+---
+Development
+`Python` `HTML` `CSS` `JavaScript` `Django` `Git` `GitHub`
+Web development
+Application development
+API integration
+Business applications
+Automation
+---
+AI & Machine Learning
+`PyTorch` `TensorFlow` `LLMs` `NLP`
+Large language model integration
+Prompt engineering
+Natural language processing
+Neural networks
+Computer vision
+Machine learning
+Document analysis
+AI-assisted workflows
+---
+
+---
+Selected Technical Projects
+My professional work is supported by postgraduate and self-directed projects across machine learning, statistics, software development and artificial intelligence.
+---
 
 ### [Cybersecurity Data Analysis and Visualization](cybersecurity.html)
 This project focuses on developing a robust system for analyzing cybersecurity events, with the goal of enhancing an organization's ability to detect and respond to threats in real-time. By systematically processing and analyzing large datasets of both malicious and non-malicious events, this project offers key insights that can strengthen an organization's security posture.
