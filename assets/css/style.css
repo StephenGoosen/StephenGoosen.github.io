@@ -6,3 +6,38 @@
             background-color: #121212;
             color: #ffffff;
         }
+
+body {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #1f2328;
+}
+
+p,
+li {
+  color: #1f2328;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #111827;
+}
+
+a {
+  color: #0969da;
+  font-weight: 500;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+code {
+  font-size: 0.9em;
+}
+
+blockquote {
+  color: #374151;
+}
